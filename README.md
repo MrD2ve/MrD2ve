@@ -1,12 +1,7 @@
-- 👋 Hi, I’m MrDave
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Video Editing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nyuyorkern1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MrAn1mator/MrAn1mator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Back-end
+- 💞️ I’m looking to collaborate with Everyone who have interesting project
+- 📫 How to reach me muskisgenius@gmail.com
+- 😄 Pronouns: Mr. D2ve
+- ⚡ Fun fact: Words on my email is true 😁
